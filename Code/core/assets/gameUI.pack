@@ -1,0 +1,37 @@
+
+gameUI.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arrow_right
+  rotate: false
+  xy: 1, 12
+  size: 39, 31
+  split: 4, 14, 4, 7
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+arrow_left
+  rotate: false
+  xy: 42, 12
+  size: 39, 31
+  split: 14, 4, 4, 7
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+arrow_down
+  rotate: false
+  xy: 83, 1
+  size: 28, 42
+  split: 4, 4, 4, 17
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+arrow_up
+  rotate: false
+  xy: 113, 1
+  size: 28, 42
+  split: 4, 4, 14, 7
+  orig: 28, 42
+  offset: 0, 0
+  index: -1

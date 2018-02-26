@@ -1,0 +1,21 @@
+
+menuUI.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+button_up
+  rotate: false
+  xy: 1, 1
+  size: 49, 49
+  split: 6, 6, 5, 9
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+button_down
+  rotate: false
+  xy: 52, 5
+  size: 49, 45
+  split: 6, 6, 5, 5
+  orig: 49, 45
+  offset: 0, 0
+  index: -1

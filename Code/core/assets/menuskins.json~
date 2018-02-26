@@ -1,0 +1,32 @@
+{
+	"com.badlogic.gdx.graphics.g2d.BitmapFont":
+	{
+		"menufnt":{"file": "menuFNT.fnt"},
+	},
+	"com.badlogic.gdx.graphics.Color": 
+	{  
+	      	"alpha": { "a": 1, "b": 1, "g": 1, "r": 0.125 },  
+	},    
+
+	"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle":
+	{
+		"menulabel":{"font": menufnt},
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle":
+	{
+		"default":
+		{
+			"up": "button_up",
+			"down": "button_down",
+			"font": menufnt,
+		},
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle":
+	{
+		"default":
+		{
+			"up": "button_up",
+			"down": "button_down",
+		},
+	},
+}

@@ -1,0 +1,15 @@
+{
+	"com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle":
+	{
+		"panel_vertical":
+		{
+			"up": "panel_vertical",
+			"down": "panel_vertical",
+		},
+		"panel_horizontal":
+		{
+			"up": "panel_horizontal",
+			"down": "panel_horizontal",
+		}
+	},
+}

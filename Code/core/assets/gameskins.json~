@@ -1,0 +1,25 @@
+{
+	"com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle":
+	{
+		"left":
+		{
+			"up": "arrow_left",
+			"down": "arrow_left",
+		},
+		"right":
+		{
+			"up": "arrow_right",
+			"down": "arrow_right",
+		},
+		"up":
+		{
+			"up": "arrow_up",
+			"down": "arrow_up",
+		},
+		"down":
+		{
+			"up": "arrow_down",
+			"down": "arrow_down",
+		},
+	},
+}
